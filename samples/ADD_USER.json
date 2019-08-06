@@ -1,0 +1,9 @@
+{
+    "route" : "android",
+    "signal" : "ADD_USER",
+    "sender" : {
+        "name" : "김태윤",
+        "email" : "thinkty@naver.com",
+        "profileUrl" : null
+    }
+}

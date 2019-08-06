@@ -1,0 +1,9 @@
+{
+    "route" : "android",
+    "signal" : "GET_ALL_CHATROOMS",
+    "sender" : {
+        "name" : "김태윤",
+        "email" : "thinkty@naver.com",
+        "profileUrl" : null
+    }
+}

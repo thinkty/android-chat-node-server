@@ -1,0 +1,15 @@
+{
+    "route" : "android",
+    "signal" : "UPDATE_CONVERSATION",
+    "sender" : {
+        "name" : "김태윤",
+        "email" : "thinkty@naver.com",
+        "profileUrl" : null
+    },
+    "receiver" : {
+        "name" : "홍길동",
+        "email" : "just4ink007@gmail.com",
+        "profileUrl" : null
+    },
+    "message" : "테스트 메시지 입니다~~~~"
+}
